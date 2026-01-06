@@ -117,9 +117,6 @@ All dependencies are loaded via CDN:
 - SplitText plugin
 - Google Fonts
 
-### Step 3: Local Development Setup
-
-
 ---
 
 ## 🎮 How to Use
