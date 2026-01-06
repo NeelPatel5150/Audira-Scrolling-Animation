@@ -99,7 +99,7 @@ Audira-Headphone-Website/
 
 ```bash
 # Using Git
-git clone https://github.com/yourusername/audira-headphone.git
+[git clone https://github.com/yourusername/audira-headphone.git](https://github.com/NeelPatel5150/Audira-Scrolling-Animation.git)
 cd audira-headphone
 
 # OR manually download and extract the ZIP file
@@ -119,43 +119,6 @@ All dependencies are loaded via CDN:
 
 ### Step 3: Local Development Setup
 
-#### Option A: Using Live Server (VS Code)
-
-1. Install **Live Server** extension in VS Code
-2. Right-click on `index.html`
-3. Select "Open with Live Server"
-4. Browser opens automatically at `http://localhost:5500`
-
-#### Option B: Using Python
-
-```bash
-# Python 3.x
-python -m http.server 8000
-
-# Python 2.x
-python -m SimpleHTTPServer 8000
-```
-
-Then visit `http://localhost:8000` in your browser
-
-#### Option C: Using Node.js
-
-```bash
-# Install http-server globally
-npm install -g http-server
-
-# Run server
-http-server
-
-# Visit provided local address
-```
-
-### Step 4: Verify Installation
-
-✅ Open `index.html` in your browser
-✅ You should see the Audira headphone with smooth animations
-✅ Scroll to see animations trigger
-✅ Check browser console (F12) for any errors
 
 ---
 
